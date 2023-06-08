@@ -1,0 +1,4 @@
+{"time": "2023-06-08 11:49:45.104","level": "INFO", "msg":下開倉}
+{"time": "2023-06-08 11:49:45.105","level": "INFO", "msg":'Pair_Trading_Config' object has no attribute 'REF_PRICE_PRECISION'}
+{"time": "2023-06-08 13:25:49.482","level": "INFO", "msg":下開倉}
+{"time": "2023-06-08 13:25:49.483","level": "INFO", "msg":fills() missing 1 required positional argument: 'rp'}

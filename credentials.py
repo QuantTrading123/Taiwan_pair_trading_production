@@ -1,0 +1,6 @@
+person_id = ''
+account = ''
+password = ''
+c_path = ''
+api_key = 'EKwmYHcQ5iyhD1DfD2tKvPTKkWARo9gz8vokbUet9zkT'
+api_secret = 'AEUPokAzDRDXUt7qdRyMfdYAbJRnrZNFu5YXg25gx9BG'
